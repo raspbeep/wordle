@@ -47,7 +47,7 @@
 			toaster.pop(modeData.modes[$mode].name);
 		}}
 	>
-		wordle+
+		Slovníkovec
 	</h1>
 	<div class="icons">
 		{#if showStats}
